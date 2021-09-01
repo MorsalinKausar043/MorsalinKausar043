@@ -15,7 +15,7 @@ I am a Mornstack developer. I work with JavaScript. Insha Allah, my codes are cl
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about Mern Devolopment 
-- 📫 How to reach me: LinkDin 
+- 📫 How to reach me: morsalinkausar043@gmail.com or https://www.facebook.com/morsalinkausar/ 
 - 😄 Pronouns: Js Devoloper 
 - ⚡ Fun fact: You are fascinated by my profile..! 
 
