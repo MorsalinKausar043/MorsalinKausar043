@@ -17,7 +17,7 @@ I am a Mornstack developer. I work with JavaScript. Insha Allah, my codes are cl
 - 💬 Ask me about Mern Devolopment 
 - 📫 How to reach me: morsalinkausar043@gmail.com or https://www.facebook.com/morsalinkausar/ 
 - 😄 Pronouns: Js Devoloper 
-- ⚡ Fun fact: You are fascinated by my profile..! 
+- ⚡ Fun fact: Dont Talk about Crush I only Know About Mearn Devolopment Crash 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MorsalinKausar043)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/morsalin-kausar-2aa235215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/morsalinkausar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ahmed_kawsar2002//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MorsalinKausar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackexchange.com/users/22060130/morsalin-kausar?tab=top)  
