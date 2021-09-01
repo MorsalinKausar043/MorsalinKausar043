@@ -1,4 +1,3 @@
-![Mern Stack Devoloper](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/204388804_3072359729757104_1878292373982158500_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xrOu68lgOpYAX9ai_UQ&tn=fIw2LyoQWT_GEwP1&_nc_ht=scontent.fdac5-2.fna&oh=8566d4d9b3306fdf8126689da27bd4f2&oe=6152678C)
 
 ### Hi there 👋, I'm Morsalin Kausar
 #### Mern Stack Devoloper
