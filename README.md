@@ -15,7 +15,7 @@ I am a Mernstack developer. I work with JavaScript. Insha Allah, my codes are cl
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about Mern Devolopment 
-- 📫 How to reach me: morsalinkausar043@gmail.com or (https://morsalin.vercel.app/)
+- 📫 How to reach me: morsalinkausar043@gmail.com or https://morsalin.vercel.app/
 - 😄 Pronouns: Js Devoloper 
 - ⚡ Fun fact: Dont Talk about Crush I only Know About Mearn Devolopment Crash 
 
