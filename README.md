@@ -61,8 +61,8 @@ Programmer | Web Developer | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Morsalin Kausar" /></p>
 
 [website]: https://morsalin.vercel.app/
-[facebook]: [https://facebook.com/morsalin-kausar](https://www.facebook.com/morsalinkausar/)
-[twitter]: [https://twitter.com/mahbubdev](https://twitter.com/MorsalinKausar)
-[instagram]: [https://instagram.com/mahbubdev/](https://www.instagram.com/morsalin_kausar043/)
-[linkedin]: [https://linkedin.com/in/mahbubdev](https://www.linkedin.com/in/morsalin-kausar/)
-[telegram]: [https://t.me/TechHelpBangladesh](https://t.me/Morsalin2002)
+[facebook]: https://www.facebook.com/morsalinkausar/
+[twitter]: https://twitter.com/MorsalinKausar
+[instagram]: https://www.instagram.com/morsalin_kausar043/
+[linkedin]: https://www.linkedin.com/in/morsalin-kausar/
+[telegram]: https://t.me/Morsalin2002
